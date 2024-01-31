@@ -16,9 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<a href="https://github.com/tshelena" title="Helena's profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tshelena&theme=dracula&show_icons=true" />
-</a>
 
 **tool and utilities**
 
