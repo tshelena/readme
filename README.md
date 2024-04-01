@@ -26,10 +26,6 @@
 
 <br/>
 
-## soft skills
-
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=tshelena&color=006bed)
